@@ -107,7 +107,7 @@ p {
 /*  global classes */
 .btn {
   text-transform: uppercase;
-  background: red;
+  background: #2caeba;
   color: #fff;
   padding: 0.375rem 0.75rem;
   letter-spacing: 0.25rem;
@@ -141,7 +141,7 @@ p {
 }
 
 .section-title span {
-  color: red;
+  color: #2caeba;
 }
 
 .section-center {
@@ -199,7 +199,7 @@ Navbar
   background: transparent;
   border: transparent;
   font-size: 1.5rem;
-  color: red;
+  color: #2caeba;
   cursor: pointer;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -271,7 +271,7 @@ Navbar
   }
   .nav-link:hover {
     padding: 0;
-    color: red;
+    color: #2caeba;
     background: transparent;
   }
   .nav-icons {
@@ -281,7 +281,7 @@ Navbar
   }
   .nav-icon {
     margin-right: 0.7rem;
-    color: red;
+    color: #2caeba;
     font-size: 1.2rem;
     -webkit-transition: all 0.3s linear;
     transition: all 0.3s linear;
@@ -298,7 +298,7 @@ Hero
 */
 .hero {
   min-height: 100vh;
-  background: red;
+  background: #2caeba;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -332,7 +332,7 @@ Hero
   padding: 0.9rem 1.6rem;
   font-size: 1.25rem;
   background: #fff;
-  color: red;
+  color: #2caeba;
 }
 
 .hero-btn:hover {
@@ -398,7 +398,7 @@ About
     content: '';
     height: 100%;
     width: 100%;
-    border: 0.5rem solid red;
+    border: 0.5rem solid #2caeba;
     position: absolute;
     top: -1.5rem;
     left: -1.5rem;
@@ -423,7 +423,7 @@ Services
 }
 
 .service-icon {
-  background: red;
+  background: #2caeba;
   color: #044e53;
   padding: 0.5rem;
   display: inline-block;
@@ -569,7 +569,7 @@ Featured Tours
   line-height: 0;
   margin-bottom: 0;
   text-transform: capitalize;
-  color: red;
+  color: #2caeba;
 }
 
 .tour-btn {
@@ -608,7 +608,7 @@ Contact
 ===============
 */
 .contact {
-  background: red;
+  background: #2caeba;
 }
 
 .contact-title {
@@ -673,7 +673,7 @@ Contact
 
 .btn-submit:hover {
   background: #044e53;
-  color: red;
+  color: #2caeba;
 }
 
 @media screen and (min-width: 992px) {
@@ -705,7 +705,7 @@ Gallery
 */
 .gallery-img-container {
   position: relative;
-  background: red;
+  background: #2caeba;
 }
 
 .gallery-img-container:hover .gallery-img {
@@ -797,7 +797,7 @@ Footer
 }
 
 .footer-link:hover {
-  color: red;
+  color: #2caeba;
 }
 
 .footer-icon {
@@ -809,7 +809,7 @@ Footer
 }
 
 .footer-icon:hover {
-  color: red;
+  color: #2caeba;
 }
 
 .copyright {
